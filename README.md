@@ -5,7 +5,7 @@
 - Practice what we've learned about Flexbox
 - Practice using different values of justify-content.
 
-![](ghblocks.gif)
+![](images/ghblocks.gif)
 
 Use margin and padding to adjust the spaces between the rows and use flexbox properties to be able to put each image in its proper place. Set the images to all have a uniform size.
 
