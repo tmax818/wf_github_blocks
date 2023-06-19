@@ -1,3 +1,38 @@
+h1, p {
+    text-align: center;
+}
+
 img.octocat {
     height: 200px;
+}
+
+.container {
+    background-color: #E7E7FF;
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+
+}
+
+.row-1 {
+    background-color: #5AC6F5;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.row-2 {
+    background-color: #D8B0B7;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.row-3 {
+    background-color: #FCFCFF;
+    display: flex;
+    justify-content: space-around;
+}
+
+.row-1, .row-2, .row-3 {
+    margin: 10px
 }
